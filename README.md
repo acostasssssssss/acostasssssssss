@@ -20,7 +20,7 @@ Me gusta el código limpio, la arquitectura simple y resolver problemas reales.
 ### 🛠️ Stack principal
 
 **Backend:** Python · FastAPI · Flask · JWT · REST APIs  
-**Frontend:** React · TypeScript · Tailwind CSS · Vite  
+**Frontend:** React · TypeScript · JavaScript · Tailwind CSS · Vite  
 **Datos:** PostgreSQL · MySQL · Redis · MongoDB  
 **DevOps / Tools:** Docker · Git · Linux · Postman · CI básico  
 
